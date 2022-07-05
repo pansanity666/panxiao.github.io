@@ -5,7 +5,7 @@
 - Google Scholar: [here](https://scholar.google.com/citations?user=5Rh3yn4AAAAJ&hl=en)
 
 ### Research Interest 
-Computer Vision; Person Re-identification; Video Object Segmentation; 3D Reconstruction;
+- Computer Vision; Person Re-identification; Video Object Segmentation; 3D Reconstruction;
 
 ### Publication
 - #### [ACM MM 2022] In-N-Out Generative Learning for Dense Unsupervised Video Segmentation 
@@ -23,5 +23,5 @@ Computer Vision; Person Re-identification; Video Object Segmentation; 3D Reconst
 - Ph.D.: College of Computer Science and Technology, Zhejiang University, 2021-Now
 
 ### Miscs
-I started to learn to play ErHu (one of the most ancient Chinese traditional instruments, Chinese version of Violin) when I was 4 years old, taught by my father.
+- I started to learn to play ErHu (one of the most ancient Chinese traditional instruments, Chinese version of Violin) when I was 4 years old, taught by my father.
 I was the head of Wenqin National Orchestra of Zhejiang University, where I spent 6 enjoyable and appreciatable years (2015-2021) and made many friends for life. 
