@@ -10,12 +10,12 @@
 ### Publication
 - ***[ACM MM 2022] In-N-Out Generative Learning for Dense Unsupervised Video Segmentation***
 
-  ****Xiao Pan***, Peike Li, Zongxin Yang, Huiling Zhou, Chang Zhou, Hongxia Yang, Jingren Zhou, Yi Yang*
+  ***Xiao Pan**, Peike Li, Zongxin Yang, Huiling Zhou, Chang Zhou, Hongxia Yang, Jingren Zhou, Yi Yang*
   
   
 - ***[KBS 2022] SFGN: Representing the Sequence with One Super Frame for Video Person Re-identification***
 
-  ****Xiao Pan***, Hao Luo, Wei Jiang, Jianming Zhang, Jianyang Gu, Peike Li*
+  ***Xiao Pan**, Hao Luo, Wei Jiang, Jianming Zhang, Jianyang Gu, Peike Li*
 
 ### Education
 - **B.S.**  College of Control Science and Engineering, Zhejiang University, 2015-2019
