@@ -24,4 +24,4 @@ Computer Vision; Person Re-identification; Video Object Segmentation; 3D Reconst
 
 ## Miscs
 I started to learn to play ErHu (one of the most ancient Chinese traditional instruments, Chinese version of Violin) when I was 4 years old, taught by my father.
-I was the head of Wenqin National Orchestra of Zhejiang University, where I spent 6 enjoyable and appreciatable years and made many friends for life. 
+I was the head of Wenqin National Orchestra of Zhejiang University, where I spent 6 enjoyable and appreciatable years (2015-2021) and made many friends for life. 
