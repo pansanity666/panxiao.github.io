@@ -5,15 +5,15 @@ I am a third-year PhD student at the college of Computer Science and Technology 
 Computer Vision; Person Re-identification; Video Object Segmentation; 3D Reconstruction;
 
 ## Publication
-
-- ### [KBS 2022] SFGN: Representing the Sequence with One Super Frame for Video Person Re-identification
-
-  ****Xiao Pan***, Hao Luo, Wei Jiang, Jianming Zhang, Jianyang Gu, Peike Li*
-
 - ### [ACM MM 2022] In-N-Out Generative Learning for Dense Unsupervised Video Segmentation 
 
   ****Xiao Pan***, Peike Li, Zongxin Yang, Huiling Zhou, Chang Zhou, Hongxia Yang, Jingren Zhou, Yi Yang*
   
+  
+- ### [KBS 2022] SFGN: Representing the Sequence with One Super Frame for Video Person Re-identification
+
+  ****Xiao Pan***, Hao Luo, Wei Jiang, Jianming Zhang, Jianyang Gu, Peike Li*
+
 
 ## Miscs
 I 
