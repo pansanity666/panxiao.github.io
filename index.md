@@ -23,5 +23,5 @@
 - **Ph.D.** College of Computer Science and Technology, Zhejiang University, 2021-Now
 
 ### Miscs
-- I started to learn to play [ErHu](https://en.wikipedia.org/wiki/Erhu#:~:text=The%20erhu%20(Chinese%3A%20%E4%BA%8C%E8%83%A1%3B,or%20a%20Chinese%20two%2Dstringed.) (one of the most ancient Chinese traditional instruments, Chinese version of Violin) when I was 4 years old, taught by my father.
+- I started to learn to play ErHu (one of the most ancient Chinese traditional instruments, Chinese version of Violin) when I was 4 years old, taught by my father.
 I was the head of Wenqin National Orchestra of Zhejiang University, where I spent 6 enjoyable and appreciatable years (2015-2021) and made many friends for life. 
