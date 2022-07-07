@@ -22,6 +22,9 @@
 - **M.S.**  College of Control Science and Engineering, Zhejiang University, 2019 - 2021
 - **Ph.D.** College of Computer Science and Technology, Zhejiang University, 2021 - Present
 
+### Experience
+- Research Intern, Alibaba DAMO Academy, 2021.6 - Present
+
 ### Miscs
 - I started to learn to play ErHu (one of the most ancient Chinese traditional instruments, Chinese version of Violin) when I was 4 years old, taught by my father.
 I was the head of Wenqin National Orchestra of Zhejiang University, where I spent 6 enjoyable and appreciatable years (2015 - 2021) and made many friends for life. 
