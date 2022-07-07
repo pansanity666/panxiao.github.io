@@ -18,9 +18,9 @@
   ***Xiao Pan**, Hao Luo, Wei Jiang, Jianming Zhang, Jianyang Gu, Peike Li*
 
 ### Education
-- **B.S.**  College of Control Science and Engineering, Zhejiang University, 2015-2019
-- **M.S.**  College of Control Science and Engineering, Zhejiang University, 2019-2021
-- **Ph.D.** College of Computer Science and Technology, Zhejiang University, 2021-Now
+- **B.S.**  College of Control Science and Engineering, Zhejiang University, 2015 - 2019
+- **M.S.**  College of Control Science and Engineering, Zhejiang University, 2019 - 2021
+- **Ph.D.** College of Computer Science and Technology, Zhejiang University, 2021 - Present
 
 ### Miscs
 - I started to learn to play ErHu (one of the most ancient Chinese traditional instruments, Chinese version of Violin) when I was 4 years old, taught by my father.
