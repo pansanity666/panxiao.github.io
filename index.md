@@ -1,6 +1,6 @@
 ### Pan Xiao (潘啸)
 <p align="center">
-<img src="./me_cropped.png"  width="20%"/>
+<img src="./me_cropped.png"  width="30%"/>
  </p>
  
 - I am a first-year Ph.D. student at the college of Computer Science and Technology (CST) at Zhejiang University, supervised by [Prof. Yi Yang](https://scholar.google.com/citations?user=RMSuNFwAAAAJ&hl=en) and [Prof. Jingren Zhou](https://scholar.google.com/citations?user=64zxhRUAAAAJ&hl=en&oi=ao). I received my B.E. degree from the college of Control Science and Engineering (CSE) at Zhejiang University in 2019, supervised by Prof. Jianming Zhang and Prof. Wei Jiang. I spent two more years (2019 - 2021) in CSE as a postgraduate before transferring to CST for pursuing a Ph.D.. I am currently a research intern in Alibaba DAMO Academy, supervised by [Prof. Hongxia Yang](https://scholar.google.com/citations?user=iJlC5mMAAAAJ&hl=en&oi=ao).
@@ -34,5 +34,5 @@
 I was the head of Wenqin National Orchestra of Zhejiang University, where I spent 6 enjoyable and appreciatable years (2015 - 2021) and made many friends for life. 
 
 <p align="center">
-<img src="./wenqing.jpg" alt="drawing" width="35%"/>
+<img src="./wenqing.jpg" alt="drawing" width="50%"/>
  </p>
