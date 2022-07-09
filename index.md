@@ -20,6 +20,11 @@
 - ***[KBS 2022] SFGN: Representing the Sequence with One Super Frame for Video Person Re-identification***
 
   ***Xiao Pan**, Hao Luo, Wei Jiang, Jianming Zhang, Jianyang Gu, Peike Li*
+  
+### Preprint
+- ***[arXiv 2022] Dynamic Gradient Reactivation for Backward Compatible Person Re-identification***
+
+  ***Xiao Pan**, Hao Luo, Weihua Chen, Fan Wang, Hao Li, Wei Jiang, Jianming Zhang, Jianyang Gu, Peike Li*
 
 ### Education
 - **B.S.**  College of Control Science and Engineering, Zhejiang University, 2015 - 2019
