@@ -45,7 +45,7 @@ I was the head of Wenqin National Orchestra of Zhejiang University, where I spen
 - I like Chinese calligraphy, and practice it sometimes (unprofessional). 
 
 <p float="left" align="middle">
-<img src="./calligraphy_0.jpg" width="40%"/> <img src="./calligraphy_1.png" width="40%"/>
+<img src="./calligraphy_0.jpg" width="40%"/> <img src="./calligraphy_1.png" width="38.9%"/>
 </p>
  
  
