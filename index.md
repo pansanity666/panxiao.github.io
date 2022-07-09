@@ -42,7 +42,7 @@ I was the head and concert master of Wenqin National Orchestra of Zhejiang Unive
 <img src="./wenqing.jpg" alt="drawing" width="50%"/>
 </p>
  
-- I am a fan of Chinese calligraphy, and practice it sometimes (unprofessional). 
+- I am a fan of Chinese calligraphy, and practice it sometimes (unprofessionally). 
 
 <p float="left" align="middle">
 <img src="./calligraphy_0.jpg" width="40%"/> <img src="./calligraphy_1.png" width="38.9%"/>
