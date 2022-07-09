@@ -49,7 +49,7 @@ I was the head of Wenqin National Orchestra of Zhejiang University, where I spen
 </p>
  
  
-- I also take photos photographs in my spare time.
+- I also take photographs in my spare time.
 
 <p align="center">
 <img src="./Photo_0.JPG" alt="drawing" width="40%"/>
