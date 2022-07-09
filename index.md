@@ -36,7 +36,7 @@
 
 ### Miscs
 - I started to play [ErHu](https://en.wikipedia.org/wiki/Erhu) (one of the most ancient Chinese traditional instruments with two strings) when I was 4 years old, taught by my father.
-I was the head of Wenqin National Orchestra of Zhejiang University, where I spent 6 enjoyable and appreciatable years (2015 - 2021) and made many friends for life. 
+I was the head and concert master of Wenqin National Orchestra of Zhejiang University, where I spent 6 enjoyable and appreciatable years (2015 - 2021) and made many friends for life. 
 
 <p align="center">
 <img src="./wenqing.jpg" alt="drawing" width="50%"/>
