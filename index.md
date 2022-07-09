@@ -40,4 +40,19 @@ I was the head of Wenqin National Orchestra of Zhejiang University, where I spen
 
 <p align="center">
 <img src="./wenqing.jpg" alt="drawing" width="50%"/>
- </p>
+</p>
+ 
+- I like Chinese calligraphy, and practice it sometimes (unprofessional). 
+
+<p float="left" align="middle">
+<img src="./calligraphy_0.jpg" width="40%"/> <img src="./calligraphy_1.png" width="40%"/>
+</p>
+ 
+ 
+- I also take photos photographs in my spare time.
+
+<p align="center">
+<img src="./Photo_0.JPG" alt="drawing" width="40%"/>
+<img src="./Photo_1.JPG" alt="drawing" width="40%"/>
+</p>
+ 
